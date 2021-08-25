@@ -1,0 +1,97 @@
+
+h1 {
+    width: fit-content;
+    margin: auto;
+    text-decoration-line: underline;
+}
+
+#poster-inicio {
+    width: 350px; height: 200px;
+    display:block;
+    margin:auto;
+}
+
+p {
+    text-align: justify;
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+    background-color: rgba(245, 198, 198, 0.13);
+    padding: 0.5rem 1rem;
+    border-radius: 9px;
+}
+
+body {
+    width: 90vw;
+    height: 90vh; 
+}
+
+footer {
+    margin: 1rem 7rem;
+}
+
+#texto-albumes {
+    width: fit-content;
+    margin: auto;
+}
+
+#lista-albumes{
+    width: fit-content;
+    margin:  1rem 28rem;
+}
+
+#texto-demo {
+    width: fit-content;
+    margin: auto;
+}
+
+#lista-demo {
+    width: fit-content;
+    margin: 1rem 28rem; 
+}
+
+#texto-miembros{
+    width: fit-content;
+    margin: auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: cornflowerblue;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.foto-individual {
+    display: inline-block;
+   width: 100%;
+  
+}
+
+.flex-row {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+
+#texto-video {
+    width: fit-content;
+    margin: auto; 
+}
+
+iframe{
+    padding-top: 20px;
+    margin: auto;
+    display: block;
+}
